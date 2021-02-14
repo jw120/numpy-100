@@ -1,5 +1,12 @@
-numpy==1.17.4
-pandas==0.25.3
-jupyter==1.0.0
-jupyterthemes==0.20.0
-mdutils==1.0.0
+# Notebooks
+jupyterlab
+# Used by code provided
+mdutils
+# Dataframes
+pandas
+# Formatting of notebook code
+nbqa
+# Formatting and checking
+flake8
+mypy
+black
